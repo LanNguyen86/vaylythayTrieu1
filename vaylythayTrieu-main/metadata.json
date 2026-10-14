@@ -1,0 +1,8 @@
+{
+  "name": "Physics Teacher Assistant – Trợ lý giảng viên Vật lý THPT",
+  "description": "Nền tảng trợ lý giảng dạy Vật lý THPT toàn diện: quản lý đề thi, giáo án, slide bài giảng, bài tập, sổ điểm điện tử, trợ lý AI Vật lý và báo cáo thống kê.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
